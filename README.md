@@ -12,4 +12,4 @@ nslookup использует протокол DNS и работает на пр
 
 выполнение команды nslookup
 
-![Pn4](https://github.com/verteks/CiskoLaba2/blob/master/nslooku2.PNG)
+![Pn4](https://github.com/verteks/CiskoLaba2/blob/master/nslookup2.PNG)
